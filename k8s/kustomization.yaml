@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: uiratan/gitopsfc
-  newTag: 1bfbb4a9ffc956153ff6560371b91371b7b07204
+  newTag: ed2c513f30b1cd6055574995a55a1c9f35655055
